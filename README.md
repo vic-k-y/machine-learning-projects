@@ -1,4 +1,3 @@
-# IBM machine-learning course assignment
-  this python notebook is final assignment i did for IBM Supervised machine Learning course offered in coursera. All about it in the notebook i suggest you to view 
- And Example Notebook
+# IBM Machine-learning course assignment
+  This Python notebooks are final assignment i did for IBM machine Learning courses offered in coursera. All about it is in the notebook. i suggest you to view.
  
